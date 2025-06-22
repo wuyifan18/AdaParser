@@ -1,6 +1,6 @@
-# AdaParser: Adaptive Log Parser using LLMs with Self-Generated In-Context Learning and Self-Correction
+# Log Parsing using LLMs with Self-Generated In-Context Learning and Self-Correction
 
-This is the replication package for AdaParser: Adaptive Log Parser using LLMs with Self-Generated In-Context Learning and Self-Correction.
+This is the replication package for Log Parsing using LLMs with Self-Generated In-Context Learning and Self-Correction.
 
 ## Repository Organization 
 
