@@ -1,0 +1,32 @@
+{"query": "startStepCounter enter...", "answer": "startStepCounter enter..."}
+{"query": "flushTempCacheToDB by ext", "answer": "flushTempCacheToDB by {variables}"}
+{"query": "upLoadOneMinuteDataToEngine time=25236360,0,92,0,20002", "answer": "upLoadOneMinuteDataToEngine time={variables}"}
+{"query": "getMidWareStepCountService: isSystemApp = true", "answer": "getMidWareStepCountService: isSystemApp = {variables}"}
+{"query": "screen status unknown,think screen on", "answer": "screen status unknown,think screen {variables}"}
+{"query": "getStringHuid() who is com.huawei.health", "answer": "getStringHuid() who is {variables}"}
+{"query": "InsertEvent success begin:25236673 end:25236677", "answer": "InsertEvent success begin:{variables} end:{variables}"}
+{"query": "initCacheFromFile enter...", "answer": "initCacheFromFile enter..."}
+{"query": "the first init mLastReportTimeStamp1514100674406", "answer": "the first init {variables}"}
+{"query": "ifCanSync not! no cloud version", "answer": "ifCanSync not! no cloud version"}
+{"query": "flush sensor data", "answer": "flush sensor data"}
+{"query": "start compare with midware counter", "answer": "start compare with midware counter"}
+{"query": "supportPrivateStandStepcounter=true,supportStandStepCounter=true", "answer": "supportPrivateStandStepcounter={variables},supportStandStepCounter={variables}"}
+{"query": "MyServiceConn connect 1.0.0.0", "answer": "MyServiceConn connect {variables}"}
+{"query": "insertHiHealthData() size = 12,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0", "answer": "insertHiHealthData() size = {variables},app = {variables},One Data Type = {variables},packageName = {variables},writeStatType = {variables}"}
+{"query": "onBind intent = Intent { act=com.huawei.hihealthservice.HiHealthService pkg=com.huawei.health }", "answer": "onBind intent = Intent { act={variables} pkg={variables} }"}
+{"query": "flushTempCacheToDB by stand", "answer": "flushTempCacheToDB by {variables}"}
+{"query": "setGoalNotificationShowStatus=true", "answer": "setGoalNotificationShowStatus={variables}"}
+{"query": "bulkSaveDetailHiHealthData() size = 9,totalTime = 39", "answer": "bulkSaveDetailHiHealthData() size = {variables},totalTime = {variables}"}
+{"query": "uploadStaticsToDB() onResult type = 4 obj=true", "answer": "uploadStaticsToDB() onResult type = {variables} obj={variables}"}
+{"query": "supportStandStepCounter true", "answer": "supportStandStepCounter {variables}"}
+{"query": "support extand step counter!,return true", "answer": "support extand step counter!,return {variables}"}
+{"query": "getFirstStartDaemonFromUI: true", "answer": "getFirstStartDaemonFromUI: {variables}"}
+{"query": "startListenerChange subscribeList = [1]", "answer": "startListenerChange subscribeList = [{variables}]"}
+{"query": "getBinderPackageName packageName = com.huawei.health", "answer": "getBinderPackageName packageName = {variables}"}
+{"query": "writeDataToDB size 256", "answer": "writeDataToDB size {variables}"}
+{"query": "MyGetDetailDataCallback onResult bundle == null", "answer": "MyGetDetailDataCallback onResult bundle == {variables}"}
+{"query": "onReceive action: android.intent.action.SCREEN_OFF", "answer": "onReceive action: {variables}"}
+{"query": "calculateAltitudeWithCache totalAltitude=210", "answer": "calculateAltitudeWithCache totalAltitude={variables}"}
+{"query": "userInfo changed detail", "answer": "userInfo changed detail"}
+{"query": "startStepCounterInter stand", "answer": "startStepCounterInter stand"}
+{"query": "registersensorsuccess: true", "answer": "registersensorsuccess: {variables}"}

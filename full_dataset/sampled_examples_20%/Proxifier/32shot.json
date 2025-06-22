@@ -1,0 +1,32 @@
+{"query": "tcpconn6.tencent.com:80 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "tcpconn6.tencent.com:80 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "tcpconn6.tencent.com:80 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "tcpconn6.tencent.com:80 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "ts2.qq.com:8000 close, 85 bytes sent, 45 bytes received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "tcpconn6.tencent.com:80 close, 0 bytes sent, 0 bytes received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "www.dropbox.com:443 close, 1334 bytes (1.30 KB) sent, 8199 bytes (8.00 KB) received, lifetime 01:00", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "tcpconn2.tencent.com:80 close, 3986 bytes (3.89 KB) sent, 16376 bytes (15.9 KB) received, lifetime 00:03", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "183.60.48.250:443 close, 484 bytes sent, 163 bytes received, lifetime 00:03", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "183.60.49.182:443 close, 484 bytes sent, 163 bytes received, lifetime 00:03", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "dns.weixin.qq.com:443 close, 357 bytes sent, 3485 bytes (3.40 KB) received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 3755 bytes (3.66 KB) sent, 1776 bytes (1.73 KB) received, lifetime 00:02", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 2013 bytes (1.96 KB) sent, 9090 bytes (8.87 KB) received, lifetime 01:06", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 492 bytes sent, 7501 bytes (7.32 KB) received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 446 bytes sent, 2503 bytes (2.44 KB) received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "qqmail.tencent.com:12000 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403", "answer": "{variables} error : Could not connect through proxy {variables} - Proxy server cannot establish a connection with the target, status code {variables}"}
+{"query": "qqmail.tencent.com:12000 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403", "answer": "{variables} error : Could not connect through proxy {variables} - Proxy server cannot establish a connection with the target, status code {variables}"}
+{"query": "tcpconn4.tencent.com:443 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.", "answer": "{variables} error : Could not connect through proxy {variables} - Proxy closed the connection unexpectedly."}
+{"query": "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:1080 SOCKS5", "answer": "{variables} open through proxy {variables} SOCKS5"}
+{"query": "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:1080 SOCKS5", "answer": "{variables} open through proxy {variables} SOCKS5"}
+{"query": "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:1080 SOCKS5", "answer": "{variables} open through proxy {variables} SOCKS5"}
+{"query": "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:1080 SOCKS5", "answer": "{variables} open through proxy {variables} SOCKS5"}
+{"query": "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:1080 SOCKS5", "answer": "{variables} open through proxy {variables} SOCKS5"}
+{"query": "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:1080 SOCKS5", "answer": "{variables} open through proxy {variables} SOCKS5"}

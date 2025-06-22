@@ -1,0 +1,32 @@
+{"query": "jACB2473003681: 2: fl=0x1, mode=10600: FIFO: dev=0/7, ino=628868, nlink=1, u/gid=0/0, size=0", "answer": "{variables}: {variables}: fl={variables}, mode={variables}: FIFO: dev={variables}, ino={variables}, nlink={variables}, u/gid={variables}, size={variables}"}
+{"query": "megaraid: probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0", "answer": "megaraid: probe new device {variables}: bus {variables}:slot {variables}:func {variables}"}
+{"query": "portmap startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "Kerberos authentication as #107# denied for #92#@#24#", "answer": "Kerberos authentication as {variables} denied for {variables}"}
+{"query": "authentication cancelled by user: 'Authentication cancelled by user.'", "answer": "authentication cancelled by user: {variables}"}
+{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/cmdif.c[212]: Failed command 0x24 (TAVOR_IF_CMD_MAD_IFC): status=0x103 (0x0103 - unexpected error - fatal)", "answer": "THH({variables}): {variables}[{variables}]: Failed command {variables} (TAVOR_IF_CMD_MAD_IFC): status={variables} ({variables} - unexpected error - fatal)"}
+{"query": "No mptable found.", "answer": "No mptable found."}
+{"query": "Kickstart: setup soft links and NFS mounts", "answer": "Kickstart: setup soft links and NFS mounts"}
+{"query": "ip_tables: (C) 2000-2002 Netfilter core team", "answer": "ip_tables: {variables} Netfilter core team"}
+{"query": "Transparent bridge - 0000:00:1e.0", "answer": "Transparent bridge - {variables}"}
+{"query": "LustreError: 12064:0:(obd_config.c:636:class_process_config()) previously skipped 1 similar messages", "answer": "LustreError: {variables}:({variables}) previously skipped {variables} similar messages"}
+{"query": "Cannot open file /dev/logsurfer for writing (No such file or directory)", "answer": "Cannot open file {variables} for writing (No such file or directory)"}
+{"query": "failed to contact portmap (errno -101).", "answer": "failed to contact portmap (errno {variables})."}
+{"query": "biosie.bin: page allocation failure. order:9, mode:0xd0", "answer": "biosie.bin: page allocation failure. order:{variables}, mode:{variables}"}
+{"query": "PCI interrupt 0000:02:0e.0[A] -> GSI 46 (level, low) -> IRQ 201", "answer": "PCI interrupt {variables}[{variables}] -> GSI {variables} (level, {variables}) -> IRQ {variables}"}
+{"query": "smartd shutdown failed", "answer": "{variables} shutdown failed"}
+{"query": "[ib_sm_sweep.c:1442]: Topology changed", "answer": "[{variables}]: Topology changed"}
+{"query": "Unable to monitor any SMART enabled devices. Try debug (-d) option. Exiting...", "answer": "Unable to monitor any SMART enabled devices. Try debug (-d) option. Exiting..."}
+{"query": "recv_rply: [127.0.0.1] RPC status 1", "answer": "recv_rply: [{variables}] RPC status {variables}"}
+{"query": "Listener created on port 22.", "answer": "Listener created on port {variables}."}
+{"query": "Switching to runlevel: 0", "answer": "Switching to runlevel: {variables}"}
+{"query": "FAIL: rsync service_limit from=10.100.34.125", "answer": "FAIL: rsync service_limit from={variables}"}
+{"query": "Lustre: 11986:0:(linux-debug.c:132:portals_debug_dumpstack()) showing stack for process 11986", "answer": "Lustre: {variables}:({variables}) showing stack for process {variables}"}
+{"query": "authentication failure; logname=LOGIN uid=0 euid=0 tty=tty1 ruser= rhost=", "answer": "authentication failure; logname={variables} uid={variables} euid={variables} tty={variables} ruser={variables} rhost={variables}"}
+{"query": "/var: recovering journal", "answer": "{variables}: recovering journal"}
+{"query": "divert: not allocating divert_blk for non-ethernet device sit0", "answer": "divert: not allocating divert_blk for non-ethernet device {variables}"}
+{"query": "RNG not detected", "answer": "RNG not detected"}
+{"query": "RTNETLINK answers: Network is unreachable", "answer": "RTNETLINK answers: Network is unreachable"}
+{"query": "ehci_hcd 0000:00:1d.7: irq 193, pci mem ffffff00106da000", "answer": "ehci_hcd {variables}: irq {variables}, pci mem {variables}"}
+{"query": "Lustre: 14194:0:(linux-debug.c:96:portals_run_upcall()) Invoked portals upcall /usr/lib/lustre/portals_upcall LBUG,/f3home/#13#/build.2.6/buildir/BUILD/lustre-#12#/lustre/obdecho/echo_client.c,echo_client_cleanup,1382", "answer": "Lustre: {variables}:({variables}) Invoked portals upcall {variables}"}
+{"query": "EXT3-fs: recovery complete.", "answer": "EXT3-fs: recovery complete."}
+{"query": "using 10.100.144.6:1, 0x23a1 (pan_sock: timeout)", "answer": "using {variables}, {variables} (pan_sock: timeout)"}

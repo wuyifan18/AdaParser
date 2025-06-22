@@ -1,0 +1,32 @@
+{"query": "Deleting staging directory .sparkStaging/application_1485248649253_0076", "answer": "Deleting staging directory {variables}"}
+{"query": "Opening proxy : mesos-slave-11:41985", "answer": "Opening proxy : {variables}"}
+{"query": "Server created on 45519", "answer": "Server created on {variables}"}
+{"query": "Starting job: collect at IPLoM.py:672", "answer": "Starting job: collect at {variables}"}
+{"query": "Cleaned RDD 97", "answer": "Cleaned RDD {variables}"}
+{"query": "looking for newly runnable stages", "answer": "looking for newly runnable stages"}
+{"query": "Submitting ResultStage 252 (PythonRDD[488] at count at IPLoM.py:520), which has no missing parents", "answer": "Submitting ResultStage {variables} ({variables} at {variables}), which has no missing parents"}
+{"query": "Found inactive connection to mesos-slave-13/10.10.34.23:51123, creating a new one.", "answer": "Found inactive connection to {variables}, creating a new one."}
+{"query": "Started reading broadcast variable 32", "answer": "Started reading broadcast variable {variables}"}
+{"query": "Failed to send RPC 5305549765086181731 to mesos-master-1/10.10.34.11:51096: java.nio.channels.ClosedChannelException", "answer": "Failed to send RPC {variables} to {variables}: {variables}"}
+{"query": "Disabling executor 5.", "answer": "Disabling executor {variables}."}
+{"query": "Submitting 13 missing tasks from ResultStage 142 (MapPartitionsRDD[295] at saveAsTextFile at null:-1)", "answer": "Submitting {variables} missing tasks from ResultStage {variables} ({variables} at {variables})"}
+{"query": "ResultStage 0 (collect at pnmf4.py:247) finished in 7.996 s", "answer": "ResultStage {variables} (collect at {variables}) finished in {variables} s"}
+{"query": "Cancelling stage 2", "answer": "Cancelling stage {variables}"}
+{"query": "Started progress reporter thread with (heartbeat : 3000, initial allocation : 200) intervals", "answer": "Started progress reporter thread with (heartbeat : {variables}, initial allocation : {variables}) intervals"}
+{"query": "Asked to send map output locations for shuffle 19 to mesos-slave-17:51510", "answer": "Asked to send map output locations for shuffle {variables} to {variables}"}
+{"query": "BlockManager re-registering with master", "answer": "BlockManager re-registering with master"}
+{"query": "Changing view acls to: yarn,curi", "answer": "Changing view acls to: {variables},{variables}"}
+{"query": "ResultStage 5 (collect at pnmf4.py:377) failed in 1052.368 s", "answer": "ResultStage {variables} (collect at {variables}) failed in {variables} s"}
+{"query": "stopped o.s.j.s.ServletContextHandler{/environment,null}", "answer": "stopped o.s.j.s.ServletContextHandler{{variables}}"}
+{"query": "Unregistering ApplicationMaster with FAILED (diag message: Uncaught exception: org.apache.spark.rpc.RpcTimeoutException: Cannot receive any reply in 120 seconds. This timeout is controlled by spark.rpc.askTimeout)", "answer": "Unregistering ApplicationMaster with {variables}"}
+{"query": "Found block rdd_410_18 locally", "answer": "Found block {variables} locally"}
+{"query": "Got told to re-register updating block broadcast_11_piece0", "answer": "Got told to re-register updating block {variables}"}
+{"query": "SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio: 0.8", "answer": "SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio: {variables}"}
+{"query": "ShuffleMapStage 4 (reduceByKey at pnmf4.py:371) failed in 502.977 s", "answer": "ShuffleMapStage {variables} ({variables} at {variables}) failed in {variables} s"}
+{"query": "Resubmitting ShuffleMapStage 4 (reduceByKey at pnmf4.py:371) because some of its tasks had failed: 1", "answer": "Resubmitting ShuffleMapStage {variables} (reduceByKey at {variables}) because some of its tasks had failed: {variables}"}
+{"query": "Got the output locations", "answer": "Got the output locations"}
+{"query": "SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)", "answer": "SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set({variables}, {variables}); users with modify permissions: Set({variables}, {variables})"}
+{"query": "Excluding datanode DatanodeInfoWithStorage[10.10.34.15:50010,DS-8de4ae37-fac2-404a-a8e3-dcecd440f907,DISK]", "answer": "Excluding datanode DatanodeInfoWithStorage[{variables},{variables},{variables}]"}
+{"query": "Issue communicating with driver in heartbeater", "answer": "Issue communicating with driver in heartbeater"}
+{"query": "Missing parents: List(ShuffleMapStage 2)", "answer": "Missing parents: List({variables})"}
+{"query": "Asked to remove non-existent executor 8", "answer": "Asked to remove non-existent executor {variables}"}

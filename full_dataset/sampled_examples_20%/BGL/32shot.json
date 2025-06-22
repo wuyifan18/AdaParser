@@ -1,0 +1,32 @@
+{"query": "757840768 double-hummer alignment exceptions", "answer": "{variables} double-hummer alignment exceptions"}
+{"query": "ddr: Unable to steer rank=0, symbol=10 - rank is already steering symbol 8. Due to multiple symbols being over the correctable", "answer": "ddr: Unable to steer rank={variables}, symbol={variables} - rank is already steering symbol {variables}. Due to multiple symbols being over the correctable"}
+{"query": "byte ordering exception.....................0", "answer": "byte ordering exception.....................{variables}"}
+{"query": "rts internal error", "answer": "rts internal error"}
+{"query": "exception syndrome register: 0x00800000", "answer": "exception syndrome register: {variables}"}
+{"query": "problem state (0=sup,1=usr).......0", "answer": "problem state ({variables}=sup,{variables}=usr).......{variables}"}
+{"query": "max number of outstanding prefetches.....7", "answer": "max number of outstanding prefetches.....{variables}"}
+{"query": "EndServiceAction is restarting the NodeCards in midplane R02-M1 as part of Service Action 223", "answer": "EndServiceAction is restarting the NodeCards in midplane {variables} as part of Service Action {variables}"}
+{"query": "guaranteed data cache block touch........1", "answer": "guaranteed data cache block touch........{variables}"}
+{"query": "program interrupt: fp cr field .............0", "answer": "program interrupt: fp cr field .............{variables}"}
+{"query": "ciod: LOGIN chdir(/nfs/tmp1/ddcMD_jng/8M_5000Ktest) failed: No such file or directory", "answer": "ciod: LOGIN chdir({variables}) failed: No such file or directory"}
+{"query": "ciod: Message code 0 is not 51 or 4294967295", "answer": "ciod: Message code {variables} is not {variables} or {variables}"}
+{"query": "ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepnocomm: invalid or missing program image, No such file or directory", "answer": "ciod: Error loading {variables}: invalid or missing program image, No such file or directory"}
+{"query": "disable write lines 2:4..................0", "answer": "disable write lines {variables}..................{variables}"}
+{"query": "uncorrectable error detected in external DDR...1", "answer": "uncorrectable error detected in external DDR...{variables}"}
+{"query": "instruction address: 0x00004ed8", "answer": "instruction address: {variables}"}
+{"query": "Starting SystemController", "answer": "Starting SystemController"}
+{"query": "rror threshold, consider replacing the card", "answer": "rror threshold, consider replacing the card"}
+{"query": "total of 1 ddr error(s) detected and corrected", "answer": "total of {variables} ddr error(s) detected and corrected"}
+{"query": "number of correctable errors detected in L3 EDRAMs........0", "answer": "number of correctable errors detected in L3 EDRAMs........{variables}"}
+{"query": "icache prefetch depth....................0", "answer": "icache prefetch depth....................{variables}"}
+{"query": "L3 correctable errors exceeds threshold (iar 0xf003da3c lr 0xf003de50)", "answer": "L3 correctable errors exceeds threshold (iar {variables} lr {variables})"}
+{"query": "i-cache parity error..............0", "answer": "i-cache parity error..............{variables}"}
+{"query": "regctl scancom interface.........................0", "answer": "regctl scancom interface.........................{variables}"}
+{"query": "close EDRAM pages as soon as possible....0", "answer": "close EDRAM pages as soon as possible....{variables}"}
+{"query": "floating pt ex mode 1 enable......0", "answer": "floating pt ex mode {variables} enable......{variables}"}
+{"query": "parity error in read queue 0...................0", "answer": "parity error in read queue {variables}...................{variables}"}
+{"query": "data address space................0", "answer": "data address space................{variables}"}
+{"query": "disable speculative access...............0", "answer": "disable speculative access...............{variables}"}
+{"query": "ddr: activating redundant bit steering: rank=0 symbol=23", "answer": "ddr: activating redundant bit steering: rank={variables} symbol={variables}"}
+{"query": "CE sym 12, at 0x1b7aef60, mask 0x40", "answer": "CE sym {variables}, at {variables}, mask {variables}"}
+{"query": "Node card is not fully functional", "answer": "Node card is not fully functional"}
